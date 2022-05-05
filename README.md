@@ -1,0 +1,1 @@
+# finding-the-smallest-number-in-a-series
